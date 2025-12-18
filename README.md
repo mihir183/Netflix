@@ -6,5 +6,5 @@
 <img src="./public/delete.png" alt="img">
 <h2>Mobile View</h2>
 <p align="center">
-  <img src="./public/mobile.png" alt="Mobile View" width="200" />
+  <img src="./public/mobile.png" alt="Mobile View" width="350" />
 </p>
